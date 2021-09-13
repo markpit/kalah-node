@@ -1,2 +1,2 @@
 # kalah-node
-Recreation of uni project
+Recreation of uni project Kalah
